@@ -1,0 +1,2 @@
+# skillcetera-training
+Training tasks
